@@ -9,3 +9,5 @@ def myfunction3(request):
     return HttpResponse("this is my third home page")
 def myfunctiontest(request):
     return render(request,'index.html')
+def mytable(request):
+    return render(request,'table.html')
