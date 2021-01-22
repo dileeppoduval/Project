@@ -11,3 +11,5 @@ def myfunctiontest(request):
     return render(request,'index.html')
 def mytable(request):
     return render(request,'table.html')
+def myforms(request):
+    return render(request,'forms.html')

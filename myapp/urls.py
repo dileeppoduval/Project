@@ -5,5 +5,7 @@ urlpatterns = [
     path('home2',views.myfunction2,name='home2'),
     path('home3',views.myfunction3,name='home3'),
     path("testpage",views.myfunctiontest,name='testpage'),
-    path("table", views.mytable,name="table")
+    path("table",views.mytable,name="table"),
+    path("forms",views.myforms,name="forms")
 ]
+

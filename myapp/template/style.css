@@ -1,0 +1,21 @@
+h1{
+    color: rgb(255, 94, 0);text-align: center;
+}
+#id1{
+    background-color: rgb(59, 161, 144);
+    color: crimson;
+}
+.class1{
+    color: darkorange;
+}
+div{
+    background-color: darkturquoise;
+    padding: 50px;
+    border:1px dotted deeppink;
+    margin: 10px;
+    outline-style: double;
+    outline-color: forestgreen;
+    outline-width: 10px;
+    outline-offset: 10cm;
+
+}
